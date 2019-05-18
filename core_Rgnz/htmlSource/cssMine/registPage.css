@@ -1,0 +1,22 @@
+body{
+    /*background-image:url("../image/注册页面.jpg");*/
+}
+
+#alertFrame{
+    height: 50px;
+    width:700px;
+    position: center;
+    margin:2% auto;
+}
+
+#logInput{
+    height: 300px;
+    width:600px;
+    position: center;
+    margin:5% auto;
+}
+
+#loginBtn{
+    margin-top: 10px;
+    float: right;
+}

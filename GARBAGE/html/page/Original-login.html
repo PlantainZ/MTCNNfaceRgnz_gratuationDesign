@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>写完就上线平沙</title>
+    <meta name="viewpoint" content="width=device-width,initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="stylesheet" href="../../htmlSource/css/bootstrap.min.css">
+  <script type="text/javascript" src="../../htmlSource/jquery-3.3.1.min.js"></script>
+    <link rel="stylesheet" href="../../htmlSource/cssMine/loginPage.css">
+    <script type="text/javascript" src="../../htmlSource/js/bootstrap.min.js"></script>
+
+  <!--首页图标设置-->
+  <link rel="icon" href="../../htmlSource/image/长歌.png" type="image/x-icon" />
+  <link rel="shortcut icon" href="../../htmlSource/image/长歌.png" type="image/x-icon"/>
+</head>
+<body>
+<!--表征部分==========================================================-->
+<!--导航条-->
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+  <div ><img src="../../htmlSource/image/长歌.png" width="40px" height="40px"/></div>
+  <a class="navbar-brand" href="#">平沙落雁 </a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+<!--style="margin-right:600px"-->
+  <div class="collapse navbar-collapse"  id="navbarSupportedContent" style="margin-right">
+    <ul class="navbar-nav mr-auto">
+
+      <li class="nav-item active" style="">
+        <a class="nav-link" style="font-size:17px;margin-right: 20px;margin-left: 20px" id='firstPage' href="#">主页 <span class="sr-only">(current)</span></a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#">CNN简介</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#">数据流图展示</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#">关于</a>
+      </li>
+
+
+      <!--搜索框-->
+      <form class="form-inline my-2 my-lg-0" style="margin-left: 160px">
+      <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+      <!--<button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>-->
+        <button type="button" class="btn btn-info" style="margin-left: 10px">懵比</button>
+    </form>
+
+
+      <!--用户选择盒子-->
+      <!--<div id="userSelect">-->
+      <!--用户头像-->
+      <div><img src="../../htmlSource/image/头像.jpg" style="border-radius: 5px;
+margin-left:350px"
+                width="40px" height="40px"/></div>
+
+      <!--下拉列表-->
+      <li class="nav-item dropdown" style="margin-left: 10px">
+        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          吞日月里洗澡
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+          <a class="dropdown-item" href="#">消息</a>
+          <a class="dropdown-item" href="#">个人信息</a>
+          <div class="dropdown-divider"></div>
+          <a class="dropdown-item" href="#">其他设置</a>
+        </div>
+      </li>
+  <!--</div>-->
+      <!--<li class="nav-item">-->
+        <!--<a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>-->
+      <!--</li>-->
+    </ul>
+
+  </div>
+  <!--头像-->
+
+ </nav>
+<!--导航栏结束------------------------------------------------------------------------------>
+
+
+
+
+    <!--如果登陆账号密码不对时候，要弹出的警告框-->
+<div id="alertFrame" class="alert alert-danger" role="alert">
+   <a href="#" class="alert-link">识别错误！</a>. 请卸妆或重新对准镜头进行检测。
+</div>
+
+
+
+<!--中间的输入框-->
+<div id="logInput">
+<form>
+  <div class="form-group">
+    <label for="exampleInputEmail1"><span style="color: white;font-family: Consolas">账号：</span></label>
+    <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email">
+    <small id="emailHelp" class="form-text text-muted">We'll never share your Info with anyone else.</small>
+  </div>
+  <div class="form-group">
+    <label for="exampleInputPassword1"><span style="color: white;font-family: Consolas">密码：</span></label>
+    <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Password">
+  </div>
+  <!--<div id="cameraDiv">-->
+  <!--</div>-->
+</form>
+<hr/>
+  <!--用其他方式登陆-->
+  <div style="display: inline">
+    <span style="color: white;font-size: 12px">其它方式：</span>
+    <img src="../../htmlSource/image/微博.png" width="35px" height="35px"/>
+    <img src="../../htmlSource/image/QQ.png" width="35px" height="35px"/>
+    <img src="../../htmlSource/image/微信.png" width="35px" height="35px"/>
+    <img src="../../htmlSource/image/github.png" width="35px" height="35px"/>
+  </div>
+
+
+
+
+
+
+<div id="cameraBtn">
+  <button type="submit" class="btn btn-primary" id="loginBtn">请点击此处开启摄像头验证</button>
+    <br/><br/>
+    <!--style="font-size=15px;color:darkgrey;float: right"-->
+    <a id="registerLink" href="Original-register.html">没有账号？去注册</a>
+  </div>
+</div>
+
+
+<div id="copyRight" style="padding-top: 160px">
+<hr style="height:1px;border:none;border-top:1px solid #555555;" />
+<div id="footer" style="color: darkgrey">CopyRight@吞日月里洗澡 2019</div>
+</div>
+
+
+<!--桥接函数部分-->
+<script type="text/javascript">
+  $(document).ready(function () {
+    $('#alertFrame').hide();
+      $('#loginBtn').bind("click",errorFrameShow);
+  })
+
+</script>
+
+
+
+<!--js控制部分-->
+<script type="text/javascript">
+  function errorFrameShow() {
+
+      var reqUrl="http://127.0.0.1:8080/loginClick";
+      var user_name=$("#exampleInputEmail1").val();
+      var password=$("#exampleInputPassword1").val();
+      var data=new Object();
+
+      data.userName=user_name;   //这个data.xxx才是在py里边jsonObj的变量名字！！
+      data.pwd=password;
+
+      $.ajax({
+          url:reqUrl,
+          type:"POST",
+          dataType:"json",
+          data:{
+              json_str:JSON.stringify(data)
+          },
+          success:onSaveOk,
+          error:onSaveError
+      });
+    $('#alertFrame').show();
+  }
+// AJAX处理部分
+    function onSaveOk(json) {alert("保存用户成功！"+json.user_id+"!");}
+    function onSaveError(msg) {alert("保存用户失败！"+JSON.stringify(msg)+"!")}
+
+</script>
+    <!--function update() {-->
+        <!--var reqUrl="http://127.0.0.1:8080/rest01_update";-->
+        <!--var user_name=$("#user_name").val();-->
+        <!--var email=$("#email").val();-->
+        <!--var user_id=$("#user_id").val();-->
+        <!--var data=new Object();-->
+
+        <!--data.user_name=user_name;-->
+        <!--data.user_id=user_id;-->
+        <!--data.email=email;-->
+
+        <!--$.ajax({-->
+            <!--url:reqUrl,-->
+            <!--type: "PUT",-->
+            <!--dataType: 'json',-->
+            <!--data: {-->
+                <!--json_str: JSON.stringify(data)-->
+            <!--},-->
+            <!--success:onUpdateOK,-->
+            <!--error:onUpdateError-->
+        <!--})-->
+
+        <!--function onUpdateOK(json) {-->
+            <!--if('OK'==json.status){alert("更新信息成功！");}-->
+            <!--else alert("更新信息失败");-->
+        <!--}-->
+        <!--function onUpdateError(msg) {-->
+            <!--alert("更新失败"+JSON.stringify(msg));-->
+        <!--}-->
+    <!--}-->
+<!--</script>-->
+
+
+
+</body>
+</html>

@@ -1,0 +1,786 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/wxpy_exe/reference/check_detailImg.py" line="38" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5e6bbe25-4f07-4f1d-b472-64a2a7611996" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/GraduationDesign_exe$05_.coverage" NAME="05- Coverage Results" MODIFIED="1556443779928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wxpy_exe" />
+    <SUITE FILE_PATH="coverage/GraduationDesign_exe$login.coverage" NAME="login Coverage Results" MODIFIED="1556867600514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wxpy_exe" />
+    <SUITE FILE_PATH="coverage/GraduationDesign_exe$cameraTest.coverage" NAME="cameraTest Coverage Results" MODIFIED="1556779587535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wxpy_exe/reference" />
+    <SUITE FILE_PATH="coverage/GraduationDesign_exe$grid_test2.coverage" NAME="grid_test2 Coverage Results" MODIFIED="1556949905733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wxpy_exe/reference" />
+    <SUITE FILE_PATH="coverage/GraduationDesign_exe$radioBox.coverage" NAME="radioBox Coverage Results" MODIFIED="1556417729141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wxpy_exe" />
+    <SUITE FILE_PATH="coverage/GraduationDesign_exe$new_face_recognition_PlusPPL.coverage" NAME="new_face_recognition_PlusPPL Coverage Results" MODIFIED="1557454003464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/core_Rgnz" />
+    <SUITE FILE_PATH="coverage/GraduationDesign_exe$cameraAccess.coverage" NAME="cameraAccess Coverage Results" MODIFIED="1556546490584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wxpy_exe/reference" />
+    <SUITE FILE_PATH="coverage/GraduationDesign_exe$grid_test.coverage" NAME="grid_test Coverage Results" MODIFIED="1556949974774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wxpy_exe/reference" />
+    <SUITE FILE_PATH="coverage/GraduationDesign_exe$train_knn.coverage" NAME="train_knn Coverage Results" MODIFIED="1556971091770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/core_Rgnz" />
+    <SUITE FILE_PATH="coverage/GraduationDesign_exe$test_CameraOpen.coverage" NAME="test-CameraOpen Coverage Results" MODIFIED="1557208758429" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wxpy_exe/reference/example" />
+    <SUITE FILE_PATH="coverage/GraduationDesign_exe$helloWorld.coverage" NAME="helloWorld Coverage Results" MODIFIED="1556438946103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wxpy_exe" />
+    <SUITE FILE_PATH="coverage/GraduationDesign_exe$test_layout.coverage" NAME="test_layout Coverage Results" MODIFIED="1557509342796" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wxpy_exe/reference/example" />
+    <SUITE FILE_PATH="coverage/GraduationDesign_exe$firstPage__1_.coverage" NAME="firstPage (1) Coverage Results" MODIFIED="1557450052993" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wxpy_exe/back" />
+    <SUITE FILE_PATH="coverage/GraduationDesign_exe$04_.coverage" NAME="04- Coverage Results" MODIFIED="1556442602997" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wxpy_exe" />
+    <SUITE FILE_PATH="coverage/GraduationDesign_exe$loginPtf.coverage" NAME="loginPtf Coverage Results" MODIFIED="1556854513321" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wxpy_exe" />
+    <SUITE FILE_PATH="coverage/GraduationDesign_exe$splitterWin.coverage" NAME="splitterWin Coverage Results" MODIFIED="1556950196609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wxpy_exe/reference" />
+    <SUITE FILE_PATH="coverage/GraduationDesign_exe$test_wxPyMultiProcessing.coverage" NAME="test-wxPyMultiProcessing Coverage Results" MODIFIED="1557454972956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wxpy_exe/back" />
+    <SUITE FILE_PATH="coverage/GraduationDesign_exe$calculate_dection_face.coverage" NAME="calculate_dection_face Coverage Results" MODIFIED="1557209882102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/core_Rgnz" />
+    <SUITE FILE_PATH="coverage/GraduationDesign_exe$calculate_dection_single_face.coverage" NAME="calculate_dection_single_face Coverage Results" MODIFIED="1557221180426" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/core_Rgnz" />
+    <SUITE FILE_PATH="coverage/GraduationDesign_exe$processingTest__3_.coverage" NAME="processingTest (3) Coverage Results" MODIFIED="1556806449939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wxpy_exe" />
+    <SUITE FILE_PATH="coverage/GraduationDesign_exe$usr_detail.coverage" NAME="usr_detail Coverage Results" MODIFIED="1556950283698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wxpy_exe/reference/example" />
+    <SUITE FILE_PATH="coverage/GraduationDesign_exe$new_face_recognition2.coverage" NAME="new_face_recognition2 Coverage Results" MODIFIED="1557220080760" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/core_Rgnz" />
+    <SUITE FILE_PATH="coverage/GraduationDesign_exe$test.coverage" NAME="test Coverage Results" MODIFIED="1557881607891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wxpy_exe/reference/example" />
+    <SUITE FILE_PATH="coverage/GraduationDesign_exe$06_layout_GridSizer.coverage" NAME="06-layout_GridSizer Coverage Results" MODIFIED="1556444254074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wxpy_exe" />
+    <SUITE FILE_PATH="coverage/GraduationDesign_exe$db_launch.coverage" NAME="db_launch Coverage Results" MODIFIED="1556870873029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wxpy_exe" />
+    <SUITE FILE_PATH="coverage/GraduationDesign_exe$08_.coverage" NAME="08- Coverage Results" MODIFIED="1556446615431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wxpy_exe" />
+    <SUITE FILE_PATH="coverage/GraduationDesign_exe$xx_subFrame.coverage" NAME="xx_subFrame Coverage Results" MODIFIED="1556547153373" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wxpy_exe/reference" />
+    <SUITE FILE_PATH="coverage/GraduationDesign_exe$03_newly.coverage" NAME="03-newly Coverage Results" MODIFIED="1556440103697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wxpy_exe" />
+    <SUITE FILE_PATH="coverage/GraduationDesign_exe$wx_main.coverage" NAME="wx_main Coverage Results" MODIFIED="1556500922046" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wxpy_exe" />
+    <SUITE FILE_PATH="coverage/GraduationDesign_exe$06_gridBagSizer.coverage" NAME="06-gridBagSizer Coverage Results" MODIFIED="1556532187780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wxpy_lenRec" />
+    <SUITE FILE_PATH="coverage/GraduationDesign_exe$05_FlexiGridSizer.coverage" NAME="05-FlexiGridSizer Coverage Results" MODIFIED="1556531651376" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wxpy_lenRec" />
+    <SUITE FILE_PATH="coverage/GraduationDesign_exe$check_record.coverage" NAME="check_record Coverage Results" MODIFIED="1557325876985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wxpy_exe/reference/example" />
+    <SUITE FILE_PATH="coverage/GraduationDesign_exe$10_PY_multiProcessing.coverage" NAME="10-PY-multiProcessing Coverage Results" MODIFIED="1557328956730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wxpy_lenRec" />
+    <SUITE FILE_PATH="coverage/GraduationDesign_exe$new_face_recognition.coverage" NAME="new_face_recognition Coverage Results" MODIFIED="1557453167712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/core_Rgnz" />
+    <SUITE FILE_PATH="coverage/GraduationDesign_exe$edit_delImgDir.coverage" NAME="edit_delImgDir Coverage Results" MODIFIED="1557901063066" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wxpy_exe/reference/example" />
+    <SUITE FILE_PATH="coverage/GraduationDesign_exe$mydb.coverage" NAME="mydb Coverage Results" MODIFIED="1557508877623" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wxpy_exe/reference/example" />
+    <SUITE FILE_PATH="coverage/GraduationDesign_exe$temp_test.coverage" NAME="temp_test Coverage Results" MODIFIED="1556356713637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tki_exe" />
+    <SUITE FILE_PATH="coverage/GraduationDesign_exe$subFrameTest__1_.coverage" NAME="subFrameTest (1) Coverage Results" MODIFIED="1556860036352" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wxpy_exe/reference" />
+    <SUITE FILE_PATH="coverage/GraduationDesign_exe$firstPage2.coverage" NAME="firstPage2 Coverage Results" MODIFIED="1557232619389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wxpy_exe/reference/example" />
+    <SUITE FILE_PATH="coverage/GraduationDesign_exe$cameraGUI__1_.coverage" NAME="cameraGUI (1) Coverage Results" MODIFIED="1556807307100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wxpy_exe/back" />
+    <SUITE FILE_PATH="coverage/GraduationDesign_exe$processingTest__2_.coverage" NAME="processingTest (2) Coverage Results" MODIFIED="1556803651023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wxpy_exe/reference" />
+    <SUITE FILE_PATH="coverage/GraduationDesign_exe$xx_image_test.coverage" NAME="xx_image_test Coverage Results" MODIFIED="1557227272899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wxpy_exe/reference" />
+    <SUITE FILE_PATH="coverage/GraduationDesign_exe$subFrameTest.coverage" NAME="subFrameTest Coverage Results" MODIFIED="1556858273262" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wxpy_exe" />
+    <SUITE FILE_PATH="coverage/GraduationDesign_exe$02_readFile.coverage" NAME="02-readFile Coverage Results" MODIFIED="1556439881927" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wxpy_exe" />
+    <SUITE FILE_PATH="coverage/GraduationDesign_exe$05___1_.coverage" NAME="05- (1) Coverage Results" MODIFIED="1556444495040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wxpy_exe" />
+    <SUITE FILE_PATH="coverage/GraduationDesign_exe$firstPage.coverage" NAME="firstPage Coverage Results" MODIFIED="1557900494363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wxpy_exe/reference/example" />
+    <SUITE FILE_PATH="coverage/GraduationDesign_exe$openCamera.coverage" NAME="openCamera Coverage Results" MODIFIED="1556351417010" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tki_exe" />
+    <SUITE FILE_PATH="coverage/GraduationDesign_exe$wx_opencv.coverage" NAME="wx_opencv Coverage Results" MODIFIED="1556724605974" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wxpy_exe/reference" />
+    <SUITE FILE_PATH="coverage/GraduationDesign_exe$MulProcessing_Camera__1_.coverage" NAME="MulProcessing_Camera (1) Coverage Results" MODIFIED="1557455553648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wxpy_exe/reference/example" />
+    <SUITE FILE_PATH="coverage/GraduationDesign_exe$image_test.coverage" NAME="image_test Coverage Results" MODIFIED="1556505630153" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wxpy_exe" />
+    <SUITE FILE_PATH="coverage/GraduationDesign_exe$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1557076581970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wxpy_exe/reference/example" />
+    <SUITE FILE_PATH="coverage/GraduationDesign_exe$grid_test3.coverage" NAME="grid_test3 Coverage Results" MODIFIED="1556949875428" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wxpy_exe/reference" />
+    <SUITE FILE_PATH="coverage/GraduationDesign_exe$train_knn_emb.coverage" NAME="train_knn_emb Coverage Results" MODIFIED="1557290141492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/core_Rgnz" />
+    <SUITE FILE_PATH="coverage/GraduationDesign_exe$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1556277686024" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/core_Rgnz" />
+    <SUITE FILE_PATH="coverage/GraduationDesign_exe$processingTest__1_.coverage" NAME="processingTest (1) Coverage Results" MODIFIED="1556868116117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wxpy_exe" />
+    <SUITE FILE_PATH="coverage/GraduationDesign_exe$usr_manger.coverage" NAME="usr_manger Coverage Results" MODIFIED="1556880814214" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wxpy_exe" />
+    <SUITE FILE_PATH="coverage/GraduationDesign_exe$01_login.coverage" NAME="01_login Coverage Results" MODIFIED="1556500646978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wxpy_exe" />
+    <SUITE FILE_PATH="coverage/GraduationDesign_exe$RgstCmr.coverage" NAME="RgstCmr Coverage Results" MODIFIED="1557881740870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wxpy_exe/back" />
+    <SUITE FILE_PATH="coverage/GraduationDesign_exe$loginFrame.coverage" NAME="loginFrame Coverage Results" MODIFIED="1556500914434" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wxpy_exe" />
+    <SUITE FILE_PATH="coverage/GraduationDesign_exe$loginPtfC.coverage" NAME="loginPtfC Coverage Results" MODIFIED="1556864116683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wxpy_exe" />
+    <SUITE FILE_PATH="coverage/GraduationDesign_exe$11_wxPyMultiProcessing.coverage" NAME="11-wxPyMultiProcessing Coverage Results" MODIFIED="1557332201134" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wxpy_lenRec" />
+    <SUITE FILE_PATH="coverage/GraduationDesign_exe$07_staticBoxSizer.coverage" NAME="07-staticBoxSizer Coverage Results" MODIFIED="1556446067098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wxpy_exe" />
+    <SUITE FILE_PATH="coverage/GraduationDesign_exe$xx_bgimage_test2.coverage" NAME="xx_bgimage_test2 Coverage Results" MODIFIED="1556547116004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wxpy_exe/reference" />
+    <SUITE FILE_PATH="coverage/GraduationDesign_exe$check_Info.coverage" NAME="check_Info Coverage Results" MODIFIED="1557227706837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wxpy_exe/reference/example" />
+    <SUITE FILE_PATH="coverage/GraduationDesign_exe$check_detailImg2.coverage" NAME="check_detailImg2 Coverage Results" MODIFIED="1557235898747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wxpy_exe/reference/example" />
+    <SUITE FILE_PATH="coverage/GraduationDesign_exe$07_StaticSizer.coverage" NAME="07-StaticSizer Coverage Results" MODIFIED="1556445611286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wxpy_exe" />
+    <SUITE FILE_PATH="coverage/GraduationDesign_exe$register.coverage" NAME="register Coverage Results" MODIFIED="1556438610741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tki_exe" />
+    <SUITE FILE_PATH="coverage/GraduationDesign_exe$check_detailImg.coverage" NAME="check_detailImg Coverage Results" MODIFIED="1557882166936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wxpy_exe/reference/example" />
+    <SUITE FILE_PATH="coverage/GraduationDesign_exe$FirstPage.coverage" NAME="FirstPage Coverage Results" MODIFIED="1556366406876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tki_exe" />
+    <SUITE FILE_PATH="coverage/GraduationDesign_exe$static_face_detection.coverage" NAME="static-face-detection Coverage Results" MODIFIED="1557192357505" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/core_Rgnz" />
+    <SUITE FILE_PATH="coverage/GraduationDesign_exe$10_PY_processing.coverage" NAME="10-PY-processing Coverage Results" MODIFIED="1557328539292" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wxpy_lenRec" />
+    <SUITE FILE_PATH="coverage/GraduationDesign_exe$test_msgBox.coverage" NAME="test-msgBox Coverage Results" MODIFIED="1557423256532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wxpy_exe/reference/example" />
+    <SUITE FILE_PATH="coverage/GraduationDesign_exe$fail_MulProcessing_Camera.coverage" NAME="fail_MulProcessing_Camera Coverage Results" MODIFIED="1557456596133" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wxpy_exe/reference/example" />
+    <SUITE FILE_PATH="coverage/GraduationDesign_exe$cameraRegister.coverage" NAME="cameraRegister Coverage Results" MODIFIED="1557881977154" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wxpy_exe/reference/example" />
+    <SUITE FILE_PATH="coverage/GraduationDesign_exe$cameraGUI.coverage" NAME="cameraGUI Coverage Results" MODIFIED="1557848177962" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wxpy_exe/back" />
+    <SUITE FILE_PATH="coverage/GraduationDesign_exe$MulProcessing_Camera.coverage" NAME="MulProcessing_Camera Coverage Results" MODIFIED="1557511304253" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wxpy_exe/reference/example" />
+    <SUITE FILE_PATH="coverage/GraduationDesign_exe$test__2_.coverage" NAME="test (2) Coverage Results" MODIFIED="1556356507190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tki_exe" />
+    <SUITE FILE_PATH="coverage/GraduationDesign_exe$processingTest.coverage" NAME="processingTest Coverage Results" MODIFIED="1556881173270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wxpy_exe" />
+    <SUITE FILE_PATH="coverage/GraduationDesign_exe$09_drop.coverage" NAME="09-drop Coverage Results" MODIFIED="1556463560046" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wxpy_exe" />
+    <SUITE FILE_PATH="coverage/GraduationDesign_exe$check_detailImg__1_.coverage" NAME="check_detailImg (1) Coverage Results" MODIFIED="1557236364569" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wxpy_exe/reference/example" />
+    <SUITE FILE_PATH="coverage/GraduationDesign_exe$newly.coverage" NAME="newly Coverage Results" MODIFIED="1556439279086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wxpy_exe" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wxpy_exe/reference/example/firstPage.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="12" column="22" lean-forward="true" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>load_and_align_data</find>
+      <find>StaticText</find>
+      <find>gridChoice</find>
+      <find>OnLabelleftClick</find>
+      <find>self.detailFrame</find>
+      <find>showDetail</find>
+      <find>1024</find>
+      <find>668</find>
+      <find>train_knn_emb</find>
+      <find>self.user_name</find>
+      <find>minsize</find>
+      <find>breakSet</find>
+      <find>savePath</find>
+      <find>num</find>
+      <find>now_usr_name</find>
+      <find>key</find>
+      <find>MulProcessing_Camera</find>
+      <find>CheckCamera</find>
+      <find>detailFrame</find>
+      <find>cameraRgst</find>
+      <find>delRg</find>
+      <find>changeDetail</find>
+      <find>pub.sendMessage</find>
+      <find>reFreshImgDetail</find>
+      <find>self.account</find>
+      <find>文件夹</find>
+      <find>C:</find>
+      <find>pub</find>
+      <find>align.detect_face</find>
+      <find>publisher</find>
+    </findStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/core_Rgnz/temp_test.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/wxpy_lenRec/08-aui.py" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/wxpy_exe/db_launch.py" />
+        <option value="$PROJECT_DIR$/wxpy_exe/login.py" />
+        <option value="$PROJECT_DIR$/wxpy_exe/processingTest.py" />
+        <option value="$PROJECT_DIR$/wxpy_exe/reference/example/usr_detail.py" />
+        <option value="$PROJECT_DIR$/wxpy_exe/reference/grid_test3.py" />
+        <option value="$PROJECT_DIR$/wxpy_exe/reference/xx_image_test.py" />
+        <option value="$PROJECT_DIR$/wxpy_exe/back/firstPage2.py" />
+        <option value="$PROJECT_DIR$/wxpy_exe/reference/splitterWin.py" />
+        <option value="$PROJECT_DIR$/core_Rgnz/new_face_recognition.py" />
+        <option value="$PROJECT_DIR$/wxpy_exe/reference/example/test2.py" />
+        <option value="$PROJECT_DIR$/core_Rgnz/static-face-detection.py" />
+        <option value="$PROJECT_DIR$/wxpy_exe/reference/example/test-msgBox.py" />
+        <option value="$PROJECT_DIR$/wxpy_exe/reference/example/detailImg.py" />
+        <option value="$PROJECT_DIR$/core_Rgnz/new_face_recognition2.py" />
+        <option value="$PROJECT_DIR$/core_Rgnz/calculate_dection_single_face.py" />
+        <option value="$PROJECT_DIR$/core_Rgnz/calculate_dection_face.py" />
+        <option value="$PROJECT_DIR$/wxpy_exe/reference/example/check_Info.py" />
+        <option value="$PROJECT_DIR$/wxpy_exe/reference/example/firstPage2.py" />
+        <option value="$PROJECT_DIR$/wxpy_exe/reference/example/check_detailImg2.py" />
+        <option value="$PROJECT_DIR$/core_Rgnz/train_knn.py" />
+        <option value="$PROJECT_DIR$/core_Rgnz/new_face_recognition_PlusPPL.py" />
+        <option value="$PROJECT_DIR$/core_Rgnz/train_knn_emb.py" />
+        <option value="$PROJECT_DIR$/wxpy_exe/reference/example/clerkRecord.txt" />
+        <option value="$PROJECT_DIR$/wxpy_exe/reference/example/nowRecord.txt" />
+        <option value="$PROJECT_DIR$/wxpy_lenRec/10-PY-processing.py" />
+        <option value="$PROJECT_DIR$/wxpy_lenRec/10-PY-multiProcessing.py" />
+        <option value="$PROJECT_DIR$/wxpy_lenRec/10-PY-multiProcessing2.py" />
+        <option value="$PROJECT_DIR$/wxpy_exe/reference/example/test-CanDel.py" />
+        <option value="$PROJECT_DIR$/wxpy_exe/reference/example/test-wxPyMultiProcessing.py" />
+        <option value="$PROJECT_DIR$/wxpy_exe/reference/example/ProcessingP_Camera.py" />
+        <option value="$PROJECT_DIR$/wxpy_exe/back/firstPage.py" />
+        <option value="$PROJECT_DIR$/wxpy_exe/back/fail_MulProcessing_Camera.py" />
+        <option value="$PROJECT_DIR$/wxpy_lenRec/11-wxPyMultiProcessing.py" />
+        <option value="$PROJECT_DIR$/wxpy_exe/reference/example/fail_MulProcessing_Camera.py" />
+        <option value="$PROJECT_DIR$/wxpy_exe/reference/example/test_layout.py" />
+        <option value="$PROJECT_DIR$/wxpy_exe/back/cameraGUI.py" />
+        <option value="$PROJECT_DIR$/wxpy_exe/back/RgstCmr.py" />
+        <option value="$PROJECT_DIR$/wxpy_exe/reference/example/test.py" />
+        <option value="$PROJECT_DIR$/wxpy_lenRec/12-else.py" />
+        <option value="$PROJECT_DIR$/core_Rgnz/detect_face.py" />
+        <option value="$PROJECT_DIR$/wxpy_exe/reference/example/check_detailImg.py" />
+        <option value="$PROJECT_DIR$/clerkRecord.txt" />
+        <option value="$PROJECT_DIR$/wxpy_exe/reference/example/check_record.py" />
+        <option value="$PROJECT_DIR$/wxpy_exe/reference/example/mydb.py" />
+        <option value="$PROJECT_DIR$/wxpy_exe/reference/example/test-CameraOpen.py" />
+        <option value="$PROJECT_DIR$/wxpy_exe/reference/example/edit_delImgDir.py" />
+        <option value="$PROJECT_DIR$/wxpy_exe/reference/example/firstPage.py" />
+        <option value="$PROJECT_DIR$/wxpy_exe/reference/example/cameraRegister.py" />
+        <option value="$PROJECT_DIR$/wxpy_exe/reference/example/MulProcessing_Camera.py" />
+        <option value="$PROJECT_DIR$/wxpy_exe/reference/example/register_cropFace.py" />
+        <option value="$PROJECT_DIR$/wxpy_exe/reference/example/firstPage.spec" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="width" value="979" />
+    <option name="height" value="1090" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="GraduationDesign_exe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GraduationDesign_exe" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GraduationDesign_exe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GraduationDesign_exe" type="462c0819:PsiDirectoryNode" />
+              <item name="wxpy_exe" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GraduationDesign_exe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GraduationDesign_exe" type="462c0819:PsiDirectoryNode" />
+              <item name="wxpy_exe" type="462c0819:PsiDirectoryNode" />
+              <item name="reference" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GraduationDesign_exe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GraduationDesign_exe" type="462c0819:PsiDirectoryNode" />
+              <item name="wxpy_exe" type="462c0819:PsiDirectoryNode" />
+              <item name="reference" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="C:/XXXX_Learning/Coding-Python_DL/PRPR-ML-201903-004-FACE_RGN/face-detection-mtcnn-master" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\XXXX_CodeRepository\GraduationDesign_exe\wxpy_exe\reference\example" />
+      <recent name="C:\XXXX_CodeRepository\GraduationDesign_exe\wxpy_exe\back" />
+      <recent name="C:\XXXX_CodeRepository\GraduationDesign_exe\GARBAGE" />
+      <recent name="C:\XXXX_CodeRepository\GraduationDesign_exe\wxpy_exe\reference" />
+      <recent name="C:\XXXX_CodeRepository\GraduationDesign_exe\emb_img_temp" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\XXXX_CodeRepository\GraduationDesign_exe\wxpy_exe\reference\example" />
+      <recent name="C:\XXXX_CodeRepository\GraduationDesign_exe\wxpy_exe\back" />
+      <recent name="C:\XXXX_CodeRepository\GraduationDesign_exe\core_Rgnz" />
+      <recent name="C:\XXXX_CodeRepository\GraduationDesign_exe\wxpy_exe\reference" />
+      <recent name="C:\XXXX_CodeRepository\GraduationDesign_exe\wxpy_exe\img" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.edit_delImgDir">
+    <configuration name="RgstCmr" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="GraduationDesign_exe" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/wxpy_exe/back" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wxpy_exe/back/RgstCmr.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="cameraRegister" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="GraduationDesign_exe" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/wxpy_exe/reference/example" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wxpy_exe/reference/example/cameraRegister.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="check_detailImg" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="GraduationDesign_exe" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/wxpy_exe/reference/example" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wxpy_exe/reference/example/check_detailImg.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="edit_delImgDir" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="GraduationDesign_exe" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/wxpy_exe/reference/example" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wxpy_exe/reference/example/edit_delImgDir.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="firstPage" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="GraduationDesign_exe" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/wxpy_exe/reference/example" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wxpy_exe/reference/example/firstPage.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.edit_delImgDir" />
+        <item itemvalue="Python.firstPage" />
+        <item itemvalue="Python.check_detailImg" />
+        <item itemvalue="Python.cameraRegister" />
+        <item itemvalue="Python.RgstCmr" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5e6bbe25-4f07-4f1d-b472-64a2a7611996" name="Default Changelist" comment="" />
+      <created>1556203592706</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556203592706</updated>
+      <workItem from="1556203593990" duration="5197000" />
+      <workItem from="1556237903571" duration="10703000" />
+      <workItem from="1556265331419" duration="15104000" />
+      <workItem from="1556283374092" duration="3458000" />
+      <workItem from="1556325413272" duration="12646000" />
+      <workItem from="1556349615208" duration="12557000" />
+      <workItem from="1556415599678" duration="19402000" />
+      <workItem from="1556463477922" duration="2974000" />
+      <workItem from="1556497196487" duration="24980000" />
+      <workItem from="1556714473796" duration="2455000" />
+      <workItem from="1556757264250" duration="26848000" />
+      <workItem from="1556811155030" duration="1159000" />
+      <workItem from="1556847023343" duration="40933000" />
+      <workItem from="1556934632603" duration="27304000" />
+      <workItem from="1556975653126" duration="124000" />
+      <workItem from="1556975815308" duration="716000" />
+      <workItem from="1557021080878" duration="2355000" />
+      <workItem from="1557056387237" duration="10963000" />
+      <workItem from="1557150236574" duration="5011000" />
+      <workItem from="1557190381684" duration="38104000" />
+      <workItem from="1557275753691" duration="36265000" />
+      <workItem from="1557336619767" duration="6000" />
+      <workItem from="1557371484589" duration="596000" />
+      <workItem from="1557409546663" duration="15334000" />
+      <workItem from="1557447762618" duration="19984000" />
+      <workItem from="1557474917633" duration="2232000" />
+      <workItem from="1557492184272" duration="483000" />
+      <workItem from="1557505998717" duration="5849000" />
+      <workItem from="1557529983332" duration="847000" />
+      <workItem from="1557538522799" duration="2136000" />
+      <workItem from="1557660555688" duration="1196000" />
+      <workItem from="1557776257927" duration="25000" />
+      <workItem from="1557846719677" duration="1806000" />
+      <workItem from="1557880794468" duration="13977000" />
+      <workItem from="1557972589271" duration="599000" />
+      <workItem from="1558167117059" duration="1512000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="365840000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1621984" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32931727" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.23828648" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.15930389" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32931727" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="13" weight="0.32931727" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.32908848" />
+      <window_info anchor="right" id="Database" order="4" weight="0.3297587" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16621985" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32931727" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.12717536" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.15930389" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32931727" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="13" weight="0.32931727" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.32908848" />
+      <window_info anchor="right" id="Database" order="4" weight="0.3297587" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/core_Rgnz/spy_img/spyImg_29.jpg" />
+    <entry file="file://$PROJECT_DIR$/core_Rgnz/spy_img/spyImg_28.jpg" />
+    <entry file="file://$PROJECT_DIR$/core_Rgnz/spy_img/spyImg_27.jpg" />
+    <entry file="file://$PROJECT_DIR$/core_Rgnz/spy_img/spyImg_26.jpg" />
+    <entry file="file://$PROJECT_DIR$/core_Rgnz/spy_img/spyImg_17.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core_Rgnz/spy_img/spyImg_2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core_Rgnz/spy_img/spyImg_1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core_Rgnz/spy_img/spyImg_3.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core_Rgnz/spy_img/spyImg_7.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core_Rgnz/spy_img/spyImg_12.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core_Rgnz/spy_img/spyImg_16.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core_Rgnz/spy_img/spyImg_18.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core_Rgnz/spy_img/spyImg_19.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core_Rgnz/spy_img/spyImg_20.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core_Rgnz/spy_img/spyImg_21.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core_Rgnz/spy_img/spyImg_23.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core_Rgnz/spy_img/spyImg_22.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core_Rgnz/spy_img/spyImg_24.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core_Rgnz/spy_img/spyImg_25.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wxpy_exe/back/cameraGUI.py" />
+    <entry file="file://$PROJECT_DIR$/wxpy_exe/back/MulProcessing_Camera.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="277" column="31" lean-forward="true" selection-start-line="277" selection-start-column="31" selection-end-line="277" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/XXXX_Learning/Software_Engineering/DevTool/Anaconda_py37/envs/TFCPUP36/Lib/site-packages/numpy/lib/npyio.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="414" column="22" selection-start-line="414" selection-start-column="22" selection-end-line="414" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core_Rgnz/train_dir/test/test_6.jpg" />
+    <entry file="file://$PROJECT_DIR$/core_Rgnz/train_dir/test/test_4.jpg" />
+    <entry file="file://$PROJECT_DIR$/core_Rgnz/train_dir/test/test_2.jpg" />
+    <entry file="file://$PROJECT_DIR$/wxpy_exe/back/RgstCmr.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="73">
+          <caret line="105" column="13" lean-forward="true" selection-start-line="105" selection-start-column="13" selection-end-line="105" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wxpy_lenRec/12-else.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="12" lean-forward="true" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core_Rgnz/train_dir/usrtest/test_1.jpg" />
+    <entry file="file://$PROJECT_DIR$/core_Rgnz/detect_face.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="288" column="41" selection-start-line="288" selection-start-column="41" selection-end-line="288" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clerkRecord.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wxpy_exe/reference/example/nowRecord.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wxpy_exe/reference/example/facenet.py" />
+    <entry file="file://$PROJECT_DIR$/wxpy_exe/reference/example/firstPage.spec">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="7" column="25" lean-forward="true" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core_Rgnz/train_dir/usr_jianziyin/jianziyin_4.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wxpy_exe/reference/example/clerkRecord.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="744">
+          <caret line="31" column="61" selection-start-line="31" selection-start-column="61" selection-end-line="31" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wxpy_exe/back/loginPtf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wxpy_exe/back/loginPtfC.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="24" lean-forward="true" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wxpy_exe/reference/example/test-CameraOpen.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1717">
+          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wxpy_exe/reference/example/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wxpy_exe/reference/example/cameraRegister.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="35" lean-forward="true" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wxpy_exe/reference/example/mydb.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2472">
+          <caret line="103" column="28" lean-forward="true" selection-start-line="103" selection-start-column="28" selection-end-line="103" selection-end-column="28" />
+          <folding>
+            <element signature="e#14#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wxpy_exe/reference/example/register_cropFace.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wxpy_exe/reference/example/check_detailImg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wxpy_exe/reference/example/check_record.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wxpy_exe/reference/example/edit_delImgDir.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wxpy_exe/reference/example/MulProcessing_Camera.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wxpy_exe/db_launch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wxpy_exe/processingTest.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wxpy_exe/usr_manger.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2016">
+          <caret line="9" column="19" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wxpy_exe/back/firstPage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="852" column="20" lean-forward="true" selection-start-line="852" selection-start-column="20" selection-end-line="852" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wxpy_exe/reference/example/firstPage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="12" column="22" lean-forward="true" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
